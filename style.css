@@ -1,0 +1,36 @@
+/* #counterLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+} */
+#myDateLabel{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+
+#myDiv{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+}
+#myImg{
+    width: 200px;
+}
+#myDiv2{
+    background-color: lightblue;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position: relative;
+}
+#myDiv3{
+    background-color: rgb(128, 169, 128);
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    position: relative;
+}
+#myCanvas{
+    border: 1px solid black;
+}
